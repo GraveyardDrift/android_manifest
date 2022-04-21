@@ -5,6 +5,10 @@
            fetch="https://github.com/LineageOS/"
            revision="lineage-19.1" />
 
+  <remote name="pixel"
+          fetch="https://github.com/PixelExperience"
+          revision="twelve"
+
   <remote  name="arrow"
            fetch="https://github.com/ArrowOS/"
            revision="arrow-12.0" />
